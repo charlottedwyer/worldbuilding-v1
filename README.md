@@ -97,14 +97,14 @@ Designed to complement — not replace — long-form writing, while keeping stor
 
 This project draws inspiration from established worldbuilding and writing tools, particularly:
 
-- :contentReference[oaicite:0]{index=0}  
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2}  
-- :contentReference[oaicite:3]{index=3}  
-- :contentReference[oaicite:4]{index=4}  
-- :contentReference[oaicite:5]{index=5}  
-- :contentReference[oaicite:6]{index=6}  
-- :contentReference[oaicite:7]{index=7}  
+- World Anvil
+- LegendKeeper
+- Campfire
+- Kanka
+- vvd
+- ChronoGrapher
+- Scrivener
+- Plot Factory
 
 The goal is not to replicate these tools, but to **bridge their strengths** into a cohesive, creator-controlled system.
 
